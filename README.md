@@ -6,7 +6,7 @@ I am a graduate student at Binghamton University, pursuing a degree in Informati
 
 - 💻 Currently learning data mining, machine learning, web development, project management, and report writing.
 - ⚽ Lifelong passion for soccer, continuing to play to this day.
-- ♟️ Recently started my chess journey 4 months ago.
+- ♟️ Recently started my chess journey 8 months ago.
 
 ## Tech Skills
 
