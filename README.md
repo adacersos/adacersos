@@ -1,12 +1,12 @@
 # Hello, I'm Adam! 👋
 
-I am a graduate student at Binghamton University, pursuing a degree in Information Systems with a specialization in Data Science.
+I am a Data Scientist who enjoys applying machine learning and data analysis skills to solve real world problems. I graduated from Binghamton University with a Master of Science in Applied Data Science, and I have been working in the field for over a year. I am always looking to expand my skillset and meet new people, so feel free to reach out!
 
 ## About Me
 
-- 💻 Currently learning data mining, machine learning, web development, project management, and report writing.
+- 💻 Regularly takes part in data mining, machine learning, web development, project management, and report writing.
 - ⚽ Lifelong passion for soccer, continuing to play to this day.
-- ♟️ Recently started my chess journey 8 months ago.
+- ♟️ Recently started my chess journey
 
 ## Tech Skills
 
@@ -14,7 +14,7 @@ I am a graduate student at Binghamton University, pursuing a degree in Informati
 - Python
 - R
 - SQL
-- HTML
+- C
 
 ### Database Management:
 - SQL
